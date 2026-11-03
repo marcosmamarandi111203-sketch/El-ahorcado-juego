@@ -1,0 +1,20 @@
+[
+  {
+    "id": 11,
+    "material": "Plastic",
+    "color": "Blue",
+    "capacity": 1.5
+  },
+  {
+    "id": 12,
+    "material": "Plastic",
+    "color": "Blue",
+    "capacity": 1.75
+  },
+  {
+    "id": 13,
+    "material": "Plastic",
+    "color": "Blue",
+    "capacity": 2.0
+  }
+]
